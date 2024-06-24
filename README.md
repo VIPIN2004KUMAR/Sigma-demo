@@ -3,4 +3,4 @@ This is  a Demo for Git &amp; Github class.
 # teacher
 shradhakhapra
 # student
-sigma student
+sigma studentgit
